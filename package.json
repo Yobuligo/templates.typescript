@@ -11,5 +11,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Yobuligo/templates.typescript.git"
+  },
+  "dependencies": {
+    "@types/uuid": "^9.0.7",
+    "uuid": "^9.0.1"
   }
 }
